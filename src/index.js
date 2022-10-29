@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
         "slackUsername": "Michael Utoh",
         "backend": true,
         "age": 30,
-        "bio": "I am a backend developer based in Lagos, Nigeria. I write efficient and scalable APIs using Python (Django and Rest Framework)"
+        "bio": "I am a backend developer based in Lagos, Nigeria. I love building REST APIs using Python"
     }
 
   res.send(data)
